@@ -2,6 +2,7 @@
 
 #### **Project Overview**:
 **Target** is a globally recognized brand and a leading retailer in the United States, known for offering exceptional value, inspiration, innovation, and a unique shopping experience. In the highly competitive world of e-commerce, businesses face the challenge of understanding customer behavior, optimizing product offerings, and maximizing sales performance across regions. 
+
 This project done using **SQL & Python** involves the analysis of a large e-commerce dataset by performing data transformation, querying, and visualization to address business-critical questions. The process is broken down into two main components:
 1. **Data Transfer to MySQL**: The dataset is obtained from Kaggle [e-Commerce(Target) sales Dataset](https://www.kaggle.com/datasets/devarajv88/target-dataset). This dataset focuses on Target's operations in Brazil, covering 100,000 orders placed between 2016 and 2018. It includes detailed information on order status, pricing, payment and shipping performance, customer locations, product attributes, and customer reviews. Data from CSV files is loaded into a MySQL database using Python, creating a structured environment for efficient querying.
 2. **Data Analysis and Visualization**: Using SQL and Python, 15 business queries are solved, and the results are visualized to uncover insights regarding sales trends, customer behavior, and product performance.
