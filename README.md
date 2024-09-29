@@ -1,6 +1,6 @@
 # e-Commerce(Target) Sales Analysis
 
-        ![image](https://github.com/user-attachments/assets/481c1ba9-2aa2-457f-837f-470056b3719e)
+   ![image](https://github.com/user-attachments/assets/481c1ba9-2aa2-457f-837f-470056b3719e)
 
 ### **Project Overview**:
 **Target** is a globally recognized brand and a leading retailer in the United States, known for offering exceptional value, inspiration, innovation, and a unique shopping experience. In the highly competitive world of e-commerce, businesses face the challenge of understanding customer behavior, optimizing product offerings, and maximizing sales performance across regions. 
