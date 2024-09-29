@@ -27,13 +27,15 @@ This project done using **SQL & Python** involves the analysis of a large e-comm
    - Sales performance varies significantly across different cities and regions. Specific regions showed consistently higher customer engagement and revenue generation, pointing to potential areas for targeted marketing campaigns.
 
 3. **Customer Purchasing Patterns**:
-   - Customers in specific regions show distinct purchasing behaviors, with some cities favoring certain product categories over others. This insight could be useful for tailored marketing and promotions.
+   - No customers make another purchase within 6 months of their first purchase. Also, product price doesn't seem to affect the number of times a product has been purchased by the customers. This insight could be useful for tailored marketing and promotions.
 
 4. **Seasonal Sales Variations**:
    - Sales trends revealed significant fluctuations during different times of the year, suggesting the presence of seasonal demand spikes. This is critical for adjusting inventory levels and ensuring stock availability during peak periods.
 
 #### **Recommendations**:
-- **Inventory Management**: Based on the insights from product and sales performance, optimize inventory management by stocking high-demand products in regions that show strong sales trends.
+- **Inventory Management**: Based on the insights from product and sales performance, optimize inventory management by stocking high-demand products in regions that show strong sales trends. Also, prepare for seasonal sales spikes.
+
+- **Customer Loyalty Programs**: High-value and frequent customers should be offered loyalty programs, discounts, or personalized promotions to encourage repeat business, as these customers generate a large portion of revenue.
   
 - **Targeted Marketing Campaigns**: Leverage geographic and customer behavior insights to design region-specific marketing campaigns and promotions to maximize customer engagement and increase sales.
 
