@@ -50,3 +50,7 @@ This project done using **SQL & Python** involves the analysis of a large e-comm
 ---
 
 This project showcases how the combination of SQL and Python can be used to extract meaningful insights from e-commerce sales data. By transferring the data to a MySQL database and solving business-critical queries, the project provides actionable insights into product performance, customer behavior, and regional sales trends. These insights can be applied to enhance inventory management, tailor marketing efforts, and optimize overall business operations.
+
+---
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tanmay-tripathi-2k/)
+
