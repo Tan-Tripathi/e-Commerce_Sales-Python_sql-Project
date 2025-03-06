@@ -11,7 +11,7 @@ This project done using **SQL & Python** involves the analysis of a large e-comm
 
 ### **Tasks Completed**:
 - **Data Transfer**: 
-  - Loaded the CSV data into a MySQL database by establishing a connection using Python’s `pymysql` library.
+  - Loaded the CSV data into a MySQL database by establishing a connection using Python’s `mysql-connector-python` library.
   - Created and populated tables like `customers`, `orders`, and `products` in MySQL to allow for structured data storage and analysis.
   
 - **SQL Queries**:
